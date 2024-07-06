@@ -11,5 +11,5 @@ I received my B.S. and M.S. degrees from [Xidian University](https://www.xidian.
 
 Publications
 ======
-1. **Y. Li**, L. Du, J. Chen, J. Song, Z. Wang and Y. Guo, "An Open Set Recognition for SAR Targets Based on Encoding-Conditional Decoding Network with Reject Threshold Adaptation," in _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_. 
+1. **Li, Yiming**, et al. "An Open Set Recognition for SAR Targets Based on Encoding-Conditional Decoding Network with Reject Threshold Adaptation." _IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing_ (2024).
 
