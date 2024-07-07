@@ -13,7 +13,7 @@ Research Background
 ======
 As an active microwave sensor, [Synthetic Aperture Radar](https://zh.wikipedia.org/wiki/%E5%90%88%E6%88%90%E5%AD%94%E5%BE%84%E9%9B%B7%E8%BE%BE) (SAR) has the capability for continuous observation and imaging under all weather conditions, day or night. Since its inception, it has been widely used in both military and civilian fields. With the global availability of data from public SAR satellite missions and the continuous deployment of commercial SAR satellite networks, researchers can now obtain increasingly large-scale, high-resolution, and high-quality SAR images for practical applications.
 
-Correspondingly, SAR target interpretation technology, which aims to extract effective information of targets of interest from SAR data, has become a cutting-edge topic in current SAR applications. My primary research focuses on **SAR automatic target recognition**(SAR ATR), which involves extracting potential regions of interest containing targets from large-scale SAR images and further classifying the targets.
+Correspondingly, SAR target interpretation technology, which aims to extract effective information of targets of interest from SAR data, has become a cutting-edge topic in current SAR applications. My primary research focuses on **SAR automatic target recognition** (SAR ATR), which involves extracting potential regions of interest containing targets from large-scale SAR images and further classifying the targets.
 
 I am dedicated to addressing the practical challenges faced by SAR ATR systems. My research includes: 1) **SAR Scene Data Interpretation under Incomplete Supervision**, 2) **Continuous Perception Technology for High-Value Non-Cooperative Targets**. I am very much looking forward to our conversation!
 
