@@ -15,6 +15,8 @@ As an active microwave sensor, [Synthetic Aperture Radar](https://zh.wikipedia.o
 
 Correspondingly, SAR target interpretation technology, which aims to extract effective information of targets of interest from SAR data, has become a cutting-edge topic in current SAR applications. My primary research focuses on **SAR automatic target recognition**(SAR ATR), which involves extracting potential regions of interest containing targets from large-scale SAR images and further classifying the targets.
 
+I am dedicated to addressing the practical challenges faced by SAR ATR systems. My research includes: 1) **SAR Scene Data Interpretation under Incomplete Supervision**, 2) **Continuous Perception Technology for High-Value Non-Cooperative Targets**. I am very much looking forward to our conversation!
+
 Publications
 ======
 1.**Li Y**, [Du L](https://web.xidian.edu.cn/dulan/index.html), [Chen J](https://web.xidian.edu.cn/jianchen/index.html), et al. [An Open Set Recognition for SAR Targets Based on Encoding-Conditional Decoding Network with Reject Threshold Adaptation](https://ieeexplore.ieee.org/abstract/document/10562242)[J]. [IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4609443), 2024.
